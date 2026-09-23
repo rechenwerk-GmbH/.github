@@ -4,11 +4,11 @@
 
 ---
 
-Homepage: [rechenwerk.com](https://rechenwerk.com)
-Contact: [info@rechenwerk.com](mailto:info@rechenwerk.com)
+Homepage: [rechenwerk.com](https://rechenwerk.com) <br>
+Contact: [info@rechenwerk.com](mailto:info@rechenwerk.com) <br>
 
 --- 
 
-rechenwerk GmbH
-Lüneburger Str. 40
-DE-45145 Essen
+rechenwerk GmbH <br>
+Lüneburger Str. 40 <br>
+DE-45145 Essen <br>
