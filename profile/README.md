@@ -1,6 +1,6 @@
 # rechenwerk GmbH
 
-![rechenwerk logo](res/rw_logo_name.png)
+![rechenwerk logo](../res/rw_logo_name.png)
 
 ---
 
